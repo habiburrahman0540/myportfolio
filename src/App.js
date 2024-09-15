@@ -39,9 +39,9 @@ function App() {
             </nav>
         </div>
         <div className="sidebar-footer">
-            <a href="#"><i className="fab fa-twitter"></i></a>
-            <a href="#"><i className="fab fa-facebook-f"></i></a>
-            <a href="#"><i className="fab fa-linkedin-in"></i></a>
+            <a href="https://x.com/habib0054"><i className="fab fa-twitter"></i></a>
+            <a href="https://web.facebook.com/habiburrahman7"><i className="fab fa-facebook-f"></i></a>
+            <a href="https://www.linkedin.com/in/habibur-rahman"><i className="fab fa-linkedin-in"></i></a>
         </div>
     </div>
     <div className="content">
@@ -400,11 +400,9 @@ function App() {
                             <p><i className="fa fa-phone"></i><a href="tel:+8801913626951">+8801913626951</a></p>
                             <p><i className="fa fa-map-marker"></i>Holding No. 700, Rustompur, Faridgonj, Chandpur, Bangladesh</p>
                             <div className="social">
-                                <a className="btn" href=""><i className="fab fa-twitter"></i></a>
-                                <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>
-                                <a className="btn" href=""><i className="fab fa-instagram"></i></a>
-                                <a className="btn" href=""><i className="fab fa-youtube"></i></a>
+                                <a className="btn" href="https://x.com/habib0054"><i className="fab fa-twitter"></i></a>
+                                <a className="btn" href="https://web.facebook.com/habiburrahman7"><i className="fab fa-facebook-f"></i></a>
+                                <a className="btn" href="https://www.linkedin.com/in/habibur-rahman"><i className="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
