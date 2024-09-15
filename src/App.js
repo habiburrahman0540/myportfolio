@@ -8,7 +8,8 @@ import Education from './components/Education';
 import Experience from './components/Experience';
 import Services from './components/Services';
 import Portfolio from './components/Portfolio';
-import Reviews from './components/Reviews';
+
+import Review from "./components/Reviews/Reviews"
 import ContactMe from './components/ContactMe';
 import Expertise from './components/Expertise';
 function App() {
@@ -27,7 +28,7 @@ function App() {
        
        <Portfolio/>
       
-      <Reviews/>
+      <Review/>
      <ContactMe/>
      
      <Footer/>
