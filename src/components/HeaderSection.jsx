@@ -26,7 +26,7 @@ const HeaderSection = () => {
           <p>I'm</p>
           <h1>Habibur Rahman</h1>
           <h2></h2>
-          <div className="typed-text">Web Designer, Web Developer, Front End Developer, Apps Developer, Graphic Designer</div>
+          <div className="typed-text text-warning">Web Designer, Web Developer, Front End Developer, Apps Developer, Graphic Designer</div>
         </div>
       </div>
       <div className="large-btn">
