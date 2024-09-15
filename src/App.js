@@ -49,7 +49,7 @@ function App() {
         <div className="header" id="header">
             <div className="content-inner">
                 <p>I'm</p>
-                <h1>Michael Miller</h1>
+                <h1>Habibur Rahman</h1>
                 <h2></h2>
                 <div className="typed-text">Web Designer, Web Developer, Front End Developer, Apps Developer, Graphic Designer</div>
             </div>
@@ -60,7 +60,7 @@ function App() {
         <div className="large-btn">
             <div className="content-inner">
                 <a className="btn" href="#"><i className="fa fa-download"></i>Resume</a>
-                <a className="btn" href="#"><i className="fa fa-hands-helping"></i>Hire Me</a>
+                <a className="btn" href="#"><i className="fa fa-hands-helping"></i>Hire Me On Upwork</a>
             </div>
         </div>
      
@@ -74,10 +74,11 @@ function App() {
                         <img src="img/about.jpg" alt="Image"/>
                     </div>
                     <div className="col-md-6 col-lg-7">
+                    <h1>We’re On Mission To Help Business Grow Faster</h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci. Donec molestie velit id libero blandit, quis suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis. Ut tempor tellus eu sem pharetra feugiat. Proin libero ligula, gravida at porttitor eget.
+                        Our mission is to empower businesses with powerful online solutions that propel them towards success in the digital landscape. Whether you’re seeking to establish a captivating online presence with our expertly crafted landing pages, create dynamic and fully functional websites from scratch.
                         </p>
-                        <a className="btn" href="#">Hire Me</a>
+                        <a className="btn" href="#">Learn More</a>
                     </div>
                 </div>
                 <div className="row">
@@ -206,33 +207,36 @@ function App() {
                 <div className="content-header">
                     <h2>Service</h2>
                 </div>
+                <h1>What I do</h1>
+                <p>Transforming businesses with expert web solutions. From captivating landing pages to full website creation, seamless e-commerce setups, speed optimization, SEO, and bug fixing – we ensure your online presence thrives.</p>
                 <div className="row align-items-center">
+                  
                     <div className="col-md-6">
                         <div className="srv-col">
-                            <i className="fa fa-desktop"></i>
-                            <h3>Web Design</h3>
-                            <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
+                            <i className="fa fa-scroll"></i>
+                            <h3>Landing Page</h3>
+                            <p>A landing page is a focused web page designed to prompt a specific action, like making a purchase or signing up for a service. It typically has a clear call-to-action, concise copy, captivating visuals, mobile responsiveness, minimal distractions, trust signals, and undergoes A/B testing for optimization.</p>
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="srv-col">
                             <i className="fa fa-laptop"></i>
-                            <h3>Web Development</h3>
-                            <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
+                            <h3>Full website create</h3>
+                            <p>Creating a full website involves planning, design, development, content creation, testing, deployment, optimization, and maintenance. It requires collaboration between designers, developers, and content creators to deliver a user-friendly experience aligned with the website’s goals and target audience.</p>
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="srv-col">
-                            <i className="fa fa-search"></i>
-                            <h3>SEO</h3>
-                            <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
+                            <i className="fa fa-shopping-cart"></i>
+                            <h3>E-commerce website</h3>
+                            <p>An e-commerce website enables online buying and selling of goods or services. It features product listings, a shopping cart, checkout process, user accounts, search functionality, responsive design, inventory management, order processing, security features, customer support, marketing tools, and analytics.</p>
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="srv-col">
-                            <i className="fa fa-envelope-open-text"></i>
-                            <h3>Digital Marketing</h3>
-                            <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
+                            <i className="fa fa-tools"></i>
+                            <h3>Bug fixing</h3>
+                            <p>Website bug fixing involves identifying and resolving issues within a website to ensure proper functionality. Bugs are identified, prioritized, reproduced, diagnosed, and then fixed. Fixes undergo testing, deployment, validation, and documentation. This process ensures the website works as intended and provides a positive user experience.</p>
                         </div>
                     </div>
                 </div>
@@ -385,16 +389,16 @@ function App() {
         <div className="contact" id="contact">
             <div className="content-inner">
                 <div className="content-header">
-                    <h2>Contact</h2>
+                    <h2>Contact Me</h2>
                 </div>
                 <div className="row align-items-center">
                     <div className="col-md-6">
                         <div className="contact-info">
-                            <p><i className="fa fa-user"></i>Michael Miller</p>
+                            <p><i className="fa fa-user"></i>Habibur Rahman</p>
                             <p><i className="fa fa-tag"></i>Web Designer & Developer</p>
-                            <p><i className="fa fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></p>
-                            <p><i className="fa fa-phone"></i><a href="tel:+1234567890">+123-456-7890</a></p>
-                            <p><i className="fa fa-map-marker"></i>123 Street, Los Angeles, CA, USA</p>
+                            <p><i className="fa fa-envelope"></i><a href="mailto:habiburrahman06000@gmail.com">habiburrahman06000@gmail.com</a></p>
+                            <p><i className="fa fa-phone"></i><a href="tel:+8801913626951">+8801913626951</a></p>
+                            <p><i className="fa fa-map-marker"></i>Holding No. 700, Rustompur, Faridgonj, Chandpur, Bangladesh</p>
                             <div className="social">
                                 <a className="btn" href=""><i className="fab fa-twitter"></i></a>
                                 <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
@@ -433,10 +437,10 @@ function App() {
             <div className="content-inner">
                 <div className="row align-items-center">
                     <div className="col-md-6">
-                        <p>&copy; Copyright <span id="year"></span><a href="https://htmlcodex.com">HTML Codex</a>. All Rights Reserved</p>
+                        <p>&copy; Copyright <span id="year"></span><a href="">2024</a>. All Rights Reserved</p>
                     </div>
                     <div className="col-md-6">
-                        <p>Powered by <a href="https://htmlcodex.com">HTML Codex</a></p>
+                        <p>Design and Developed by <a href="">Habibur Rahman</a></p>
                     </div>
                 </div>
             </div>
