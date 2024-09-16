@@ -6,9 +6,9 @@ const Portfolio = () => {
   const [filter, setFilter] = useState('*');
 
   const portfolioItems = [
-    { id: 1, category: 'web-des', image: 'img/portfolio-1.jpg', title: 'Project Name', type: 'Web Design' },
-    { id: 2, category: 'web-dev', image: 'img/portfolio-3.jpg', title: 'Project Name', type: 'Web Development' },
-    { id: 3, category: 'dig-mar', image: 'img/portfolio-5.jpg', title: 'Project Name', type: 'Digital Marketing' },
+    { id: 1, category: 'wordpress', image: 'img/portfolio-1.jpg', title: 'Project Name', type: 'wordpress' },
+    { id: 2, category: 'shopify', image: 'img/portfolio-3.jpg', title: 'Project Name', type: 'shopify' },
+    { id: 3, category: 'wordpress', image: 'img/portfolio-5.jpg', title: 'Project Name', type: 'wordpress' },
     // Add more items here
   ];
 
@@ -24,9 +24,8 @@ const Portfolio = () => {
           <div className="col-lg-12">
             <ul id="portfolio-flters">
               <li onClick={() => setFilter('*')} className={filter === '*' ? 'filter-active' : ''}>All</li>
-              <li onClick={() => setFilter('web-des')} className={filter === 'web-des' ? 'filter-active' : ''}>Design</li>
-              <li onClick={() => setFilter('web-dev')} className={filter === 'web-dev' ? 'filter-active' : ''}>Development</li>
-              <li onClick={() => setFilter('dig-mar')} className={filter === 'dig-mar' ? 'filter-active' : ''}>Marketing</li>
+              <li onClick={() => setFilter('wordpress')} className={filter === 'wordpress' ? 'filter-active' : ''}>Wordpress</li>
+              <li onClick={() => setFilter('shopify')} className={filter === 'shopify' ? 'filter-active' : ''}>Shopify</li>
             </ul>
           </div>
         </div>
