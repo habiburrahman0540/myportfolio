@@ -6,9 +6,12 @@ const Portfolio = () => {
   const [filter, setFilter] = useState('*');
 
   const portfolioItems = [
-    { id: 1, category: 'wordpress', image: 'img/portfolio-1.jpg', title: 'Project Name', type: 'wordpress' },
-    { id: 2, category: 'shopify', image: 'img/portfolio-3.jpg', title: 'Project Name', type: 'shopify' },
-    { id: 3, category: 'wordpress', image: 'img/portfolio-5.jpg', title: 'Project Name', type: 'wordpress' },
+    { id: 1, category: 'wordpress', image: 'img/portfolio-1.jpg', title: 'Project Name', type: 'wordpress',urlLink:'#' },
+    { id: 2, category: 'shopify', image: 'img/portfolio-3.jpg', title: 'Project Name', type: 'shopify',urlLink:'#' },
+    { id: 3, category: 'wordpress', image: 'img/portfolio-5.jpg', title: 'Project Name', type: 'wordpress',urlLink:'#' },
+    { id: 4, category: 'react', image: 'img/react-1.jpg', title: 'Nutrition Calculator', type: 'react' ,urlLink:'https://github.com/justmeats/nutrition-calculator'},
+    { id: 5, category: 'react', image: 'img/react-2.jpeg', title: 'Justmeat -Shopify project ', type: 'react',urlLink:'https://www.justmeats.com/' },
+    { id: 6, category: 'shopify', image: 'img/react-2.jpeg', title: 'Justmeat -Shopify project ', type: 'shopify',urlLink:'https://www.justmeats.com/' },
     // Add more items here
   ];
 
@@ -26,6 +29,7 @@ const Portfolio = () => {
               <li onClick={() => setFilter('*')} className={filter === '*' ? 'filter-active' : ''}>All</li>
               <li onClick={() => setFilter('wordpress')} className={filter === 'wordpress' ? 'filter-active' : ''}>Wordpress</li>
               <li onClick={() => setFilter('shopify')} className={filter === 'shopify' ? 'filter-active' : ''}>Shopify</li>
+              <li onClick={() => setFilter('react')} className={filter === 'react' ? 'filter-active' : ''}>React</li>
             </ul>
           </div>
         </div>
@@ -38,6 +42,7 @@ const Portfolio = () => {
                   <a href={item.image} data-lightbox="portfolio" data-title={item.title} className="link-preview" title="Preview">
                     <i className="fa fa-eye"></i>
                   </a>
+                  <a href={item.urlLink} class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                   <a className="portfolio-title" href="#!">{item.title} <span>{item.type}</span></a>
                 </figure>
               </div>
