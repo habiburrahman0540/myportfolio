@@ -13,6 +13,7 @@ const Portfolio = () => {
     { id: 5, category: 'react', image: 'img/react-2.jpeg', title: 'Justmeat -Shopify project ', type: 'react',urlLink:'https://www.justmeats.com/' },
     { id: 6, category: 'shopify', image: 'img/react-2.jpeg', title: 'Justmeat -Shopify project ', type: 'shopify',urlLink:'https://www.justmeats.com/' },
     { id: 7, category: 'shopify', image: 'img/feastbox.jpeg', title: 'Feastbox -Shopify and React ', type: 'shopify',urlLink:'https://www.justmeats.com/' },
+    { id: 8, category: 'react', image: 'img/feastbox.jpeg', title: 'Feastbox -Shopify and React ', type: 'react',urlLink:'https://www.justmeats.com/' },
     // Add more items here
   ];
 
