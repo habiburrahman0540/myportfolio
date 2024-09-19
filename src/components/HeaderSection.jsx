@@ -31,7 +31,7 @@ const HeaderSection = () => {
       </div>
       <div className="large-btn">
         <div className="content-inner">
-          <a className="btn" href="#"><i className="fa fa-download"></i>Resume</a>
+          <a className="btn" href="https://www.fiverr.com/habib054"><i className="fa fa-hands-helping"></i>Hire Me On Fiverr</a>
           <a className="btn" href="https://www.upwork.com/freelancers/~018308e7c3d049525f"><i className="fa fa-hands-helping"></i>Hire Me On Upwork</a>
         </div>
       </div>
