@@ -1,39 +1,39 @@
 const reviews = [
     {
       id: 1,
-      name: 'susan smith',
-      job: 'web developer',
+      name: 'Gabriel Blazes',
+      job: 'WordPress Update',
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+        'https://www.upwork.com/profile-portraits/c1vU-IPAMiKxfr1xC5mXlbzsJ7gzYTjnmHj3vRc5HyOfgmj_SRLWFhZyQ07dRvFaZe',
       text:
-        "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+        "Great communication. Highly recommended for WordPress work!",
     },
     {
       id: 2,
-      name: 'anna johnson',
-      job: 'web designer',
+      name: 'Brandon Barclay',
+      job: 'Laravel Filament. Modular design expert',
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
+        'https://www.upwork.com/profile-portraits/c1ICTXUV46b3CXq6OV0xKZ2h68ZYlKwnD8JTLL_tO-1vtc7PCwabl2kgN0R93XBbzB',
       text:
-        'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+        'Great frontend developer. Smart business man.',
     },
     {
       id: 3,
-      name: 'peter jones',
-      job: 'intern',
+      name: 'Daniela Nobre',
+      job: 'User Experience Testers for Apps',
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+        'https://www.upwork.com/profile-portraits/c1_d36NvhgXQmFzKgIBMQV5c5fI3o0ruC58GBhhvsGHRZC6ybgiH0_d1fP85gelaOS',
       text:
-        'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
+        'Habibur was very thorough and accurate with his work. Will work with him again.',
     },
     {
       id: 4,
-      name: 'bill anderson',
-      job: 'the boss',
+      name: 'Karen Daigle',
+      job: 'Website Design and Development for Visa Service',
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
       text:
-        'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+        'Highly recommended for WordPress work! ',
     },
   ];
   

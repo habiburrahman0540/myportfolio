@@ -40,7 +40,7 @@ const Reviews = () => {
        <div className="content-header ">
             <h2>Reviews</h2>
         </div>
-        <div className="row align-items-center">
+        <div className="row align-items-center justify-content-center">
         <Review name={name} image={image} text={text} job={job} prevButton={prevButton} nextButton={nextButton} randonPerson={randonPerson} />
         </div>
         
