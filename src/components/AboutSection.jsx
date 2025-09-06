@@ -22,9 +22,18 @@ const AboutSection = () => {
             <img src="img/about.jpg" alt="Image"/>
           </div>
           <div className="col-md-6 col-lg-7">
-            <h1>We’re On Mission To Help Business Grow Faster</h1>
+            <h1>✨ About Me</h1>
             <p>
-              Our mission is to empower businesses with powerful online solutions that propel them towards success in the digital landscape. Whether you’re seeking to establish a captivating online presence with our expertly crafted landing pages, create dynamic and fully functional websites from scratch.
+              
+Hi, I’m Habibur Rahman, a passionate Shopify and WordPress Developer from Chittagong, Bangladesh. With over 3 years of experience in ecommerce and web development, I specialize in building high-converting Shopify stores, custom WordPress themes, and dropshipping websites that help businesses grow online.
+
+I love creating modern, responsive, and SEO-friendly websites that not only look great but also deliver results. From store setup and customization to performance optimization and automation, I provide end-to-end solutions tailored to each client’s needs.
+
+💡 My mission is simple: to help entrepreneurs and businesses turn their ideas into successful online stores.
+
+When I’m not coding, you’ll find me exploring new design trends, learning the latest ecommerce tools, and constantly improving my skills to deliver the best for my clients.
+
+🚀 Let’s build something amazing together!
             </p>
             <a className="btn" href="#">Learn More</a>
           </div>
