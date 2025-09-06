@@ -8,7 +8,7 @@ const Services = () => {
                     <h2>Service</h2>
                 </div>
                 <h1>What I do</h1>
-                <p>Transforming businesses with expert web solutions. From captivating landing pages to full website creation, seamless e-commerce setups, speed optimization, SEO, and bug fixing – we ensure your online presence thrives.</p>
+                <p>Transforming businesses with expert web solutions. From captivating landing pages to full website creation, seamless e-commerce setups, speed optimization, SEO, and bug fixing – I ensure your online presence thrives.</p>
                 <div className="row align-items-center">
                   
                     <div className="col-md-6">
