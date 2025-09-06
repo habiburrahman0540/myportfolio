@@ -30,12 +30,12 @@ const AboutSection = () => {
 
   I love creating modern, responsive, and SEO-friendly websites that not only look great but also deliver results. 
   From store setup and customization to performance optimization and automation, I provide end-to-end solutions tailored 
-  to each client’s needs.<br />
+  to each client’s needs.<br /><br />
 
   💡 My mission is simple: to help entrepreneurs and businesses turn their ideas into successful online stores.<br />
 
   When I’m not coding, you’ll find me exploring new design trends, learning the latest ecommerce tools, and constantly 
-  improving my skills to deliver the best for my clients.<br />
+  improving my skills to deliver the best for my clients.<br /><br />
 
   🚀 Let’s build something amazing together!
 </p>
