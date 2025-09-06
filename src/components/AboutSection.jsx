@@ -15,15 +15,15 @@ const AboutSection = () => {
     <div className="about" id="about">
       <div className="content-inner">
         <div className="content-header">
-          <h2>About Me</h2>
+          <h2>✨ About Me</h2>
         </div>
         <div className="row align-items-center">
           <div className="col-md-6 col-lg-5">
             <img src="img/about.jpg" alt="Image"/>
           </div>
           <div className="col-md-6 col-lg-7">
-            <h1>✨ About Me</h1>
-            <p>
+           
+            <p style={{ color: "#333", fontSize: "20px", fontWeight: 500 }}>
   Hi, I’m Habibur Rahman, a passionate Shopify and WordPress Developer from Chittagong, Bangladesh. 
   With over 3 years of experience in ecommerce and web development, I specialize in building high-converting Shopify stores, 
   custom WordPress themes, and dropshipping websites that help businesses grow online.<br /><br />
