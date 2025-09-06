@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="content-inner">
         <div className="row align-items-center">
             <div className="col-md-6">
-                <p>&copy; Copyright <span id="year"></span><a href="">2024</a>. All Rights Reserved</p>
+                <p>&copy; Copyright <span id="year"></span><a href="">2025</a>. All Rights Reserved</p>
             </div>
             <div className="col-md-6">
                 <p>Design and Developed by <a href="">Habibur Rahman</a></p>
