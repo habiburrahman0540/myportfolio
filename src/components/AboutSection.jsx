@@ -15,7 +15,7 @@ const AboutSection = () => {
     <div className="about" id="about">
       <div className="content-inner">
         <div className="content-header">
-          <h2>✨ About Me</h2>
+          <h2>✨About Me</h2>
         </div>
         <div className="row align-items-center">
           <div className="col-md-6 col-lg-5">
@@ -40,7 +40,7 @@ const AboutSection = () => {
   🚀 Let’s build something amazing together!
 </p>
 
-            <a className="btn" href="#">Learn More</a>
+            <a className="btn" href="https://www.fiverr.com/mdhabib058" target="_blank">Hire Me</a>
           </div>
         </div>
         <div className="row">
