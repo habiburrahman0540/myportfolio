@@ -23,19 +23,19 @@ const AboutSection = () => {
           </div>
           <div className="col-md-6 col-lg-7">
            
-            <p style={{ color: "#333", fontSize: "20px", fontWeight: 500 }}>
+            <p style={{ color: "#333", fontSize: "18px", fontWeight: 500 }}>
   Hi, I’m Habibur Rahman, a passionate Shopify and WordPress Developer from Chittagong, Bangladesh. 
   With over 3 years of experience in ecommerce and web development, I specialize in building high-converting Shopify stores, 
   custom WordPress themes, and dropshipping websites that help businesses grow online.<br /><br />
 
   I love creating modern, responsive, and SEO-friendly websites that not only look great but also deliver results. 
   From store setup and customization to performance optimization and automation, I provide end-to-end solutions tailored 
-  to each client’s needs.<br /><br />
+  to each client’s needs.<br />
 
-  💡 My mission is simple: to help entrepreneurs and businesses turn their ideas into successful online stores.<br /><br />
+  💡 My mission is simple: to help entrepreneurs and businesses turn their ideas into successful online stores.<br />
 
   When I’m not coding, you’ll find me exploring new design trends, learning the latest ecommerce tools, and constantly 
-  improving my skills to deliver the best for my clients.<br /><br />
+  improving my skills to deliver the best for my clients.<br />
 
   🚀 Let’s build something amazing together!
 </p>
