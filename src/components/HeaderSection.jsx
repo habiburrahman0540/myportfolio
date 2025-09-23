@@ -32,7 +32,7 @@ const HeaderSection = () => {
       <div className="large-btn">
         <div className="content-inner">
           <a className="btn" href="https://www.fiverr.com/mdhabib058" target="_blank"><i className="fa fa-hands-helping"></i>Hire Me On Fiverr</a>
-          <a className="btn" href="https://www.upwork.com/freelancers/~018308e7c3d049525f" target="_blank"><i className="fa fa-hands-helping"></i>Hire Me On Upwork</a>
+          <a className="btn" href="https://www.freelancer.com/hireme/habiburrahman054" target="_blank"><i className="fa fa-hands-helping"></i>Hire Me On Freelancer</a>
         </div>
       </div>
     </>
